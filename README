@@ -1,2 +1,3 @@
 This is my first project in github, it's nothing big however I will try to add few stuff with time and I am not an expert programmer so there will be a lot of inconsistencies, bugs and junk.
 The goal of this project is to develop an application to calculate daily expenses and later on possibly for weekly basis. Could say it's a financial helper
+it's very rudimentary needs a blank directory named weekfiles to operate after compilation.
